@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Credential Config Files
-test-config.R
+test_config.R

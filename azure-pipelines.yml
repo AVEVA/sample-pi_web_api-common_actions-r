@@ -49,3 +49,5 @@ jobs:
           projectPath: $(Build.SourcesDirectory)
 
       - template: '/miscellaneous/build_templates/analysis.yml@templates'
+        parameters:
+          skipPolaris: true

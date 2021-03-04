@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.12 / 2021-03-03
+
+- Updated pipeline to reference main branch
+
 ## 1.0.11 / 2020-09-23
 
 - Fix azure pipelines

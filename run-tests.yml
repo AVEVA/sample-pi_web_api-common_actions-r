@@ -13,5 +13,4 @@ steps:
       testResultsFormat: 'JUnit'
       testResultsFiles: '**\output.xml'
       searchFolder: ${{ parameters.projectPath }}
-      testRunTitle: 'Publish R test results'
     displayName: 'Publish test results'

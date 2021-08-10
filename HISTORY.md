@@ -1,5 +1,10 @@
 # Version History
 
+## 1.0.13 / 2021-08-10
+
+- Edit gitignore
+- Removed unnecessary files
+
 ## 1.0.12 / 2021-03-03
 
 - Updated pipeline to reference main branch

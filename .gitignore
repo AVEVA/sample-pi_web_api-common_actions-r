@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # Credential Config Files
 test_config.R
+product-readiness.*

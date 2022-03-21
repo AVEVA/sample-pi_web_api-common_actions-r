@@ -1,6 +1,6 @@
 # PI Web API R Sample
 
-**Version:** 1.0.13
+**Version:** 1.0.14
 
 [![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/PI-System/osisoft.sample-pi_web_api-common_actions-r?repoName=osisoft%2Fsample-pi_web_api-common_actions-r&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2664&repoName=osisoft%2Fsample-pi_web_api-common_actions-r&branchName=main)
 

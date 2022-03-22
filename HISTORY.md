@@ -1,5 +1,10 @@
 # Version History
 
+## 1.0.14 / 2022-03-22
+
+- Changed agent used in pipeline
+- Use internal code analysis template
+
 ## 1.0.13 / 2021-08-10
 
 - Edit gitignore

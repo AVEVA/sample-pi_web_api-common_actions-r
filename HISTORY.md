@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.17 / 2023-04-03
+
+- Fix pipeline parameter for container demands
+
 ## 1.0.16 / 2022-08-09
 
 - Add dependabot.yml to automate dependency checks

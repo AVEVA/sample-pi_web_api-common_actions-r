@@ -1,5 +1,9 @@
 # Version History
 
+## 1.0.18 / 2023-10-13
+
+- Migrate Pipelines
+
 ## 1.0.17 / 2023-04-03
 
 - Fix pipeline parameter for container demands

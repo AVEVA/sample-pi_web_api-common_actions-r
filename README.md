@@ -1,8 +1,9 @@
 # PI Web API R Sample
 
-**Version:** 1.0.18
+| :loudspeaker: **Notice**: This sample has been Archived. Dependencies will not be updated and pipelines will not be run.  Please visit The AVEVA Feedback Site for comments |
+| -----------------------------------------------------------------------------------------------|
 
-[![Build Status](https://dev.azure.com/osieng/engineering/_apis/build/status/product-readiness/PI-System/osisoft.sample-pi_web_api-common_actions-r?repoName=osisoft%2Fsample-pi_web_api-common_actions-r&branchName=main)](https://dev.azure.com/osieng/engineering/_build/latest?definitionId=2664&repoName=osisoft%2Fsample-pi_web_api-common_actions-r&branchName=main)
+**Version:** ARCHIVED
 
 The sample code in this folder demonstrates how to utilize the PI Web API in R. The sample code is dependent on:
 
